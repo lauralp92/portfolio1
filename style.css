@@ -40,7 +40,7 @@ header nav a:hover {
 }
 
 .hero-banner {
-  background-image: url(./images/hero-banner.jpg);
+  background-image: url(images/hero-banner.jpg);
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
